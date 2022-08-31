@@ -1,1 +1,2 @@
-Creating script to print current working directory
+Script  print current working directory
+Script list content of current directory
