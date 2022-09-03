@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ./0x00-shell_basics/6-firstdirectory
+rm -r /tmp/my_first_directory
