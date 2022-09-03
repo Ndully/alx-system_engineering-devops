@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 6-firstdirectory
+cat ./0x00-shell_basics/6-firstdirectory
